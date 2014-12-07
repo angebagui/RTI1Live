@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.angbeny.rti1live.MainActivity" >
+
+    <item
+        android:id="@+id/action_credit"
+        android:orderInCategory="100"
+        android:title="@string/action_credit"
+        app:showAsAction="never"/>
+
+</menu>
